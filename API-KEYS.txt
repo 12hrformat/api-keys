@@ -1,3 +1,6 @@
+<-----EXTREMLEY SENSITIVE-------->
+
+
 claude_api=sk-fake-7H3K9Q2M8X4P6L1N
 claude_api=sk-test-9F2D7K8M4Q1X6R3P
 claude_api=sk-placeholder-A8N4C7V2M9L5
